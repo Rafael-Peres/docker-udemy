@@ -1,7 +1,7 @@
 # docker-udemy
 ```
-* docker run
+$ docker run
 
-* docker container
+$ docker container
 
 ```
